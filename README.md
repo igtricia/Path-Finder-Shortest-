@@ -2,7 +2,7 @@
 This project is a Python-based application that finds the shortest path out of a maze using data structural algorithms. It offers an interface for maze creation, making it an essential tool for understanding algorithm behavior in various real world geo-spatial contexts such as leaving mazes.
 
 ## Features
-** Maze Creation:
+-** Maze Creation:
 ** Generate mazes of various sizes and complexities.
 ** Allow manual maze creation and modification by the user.
 ** Users can set start and end points, and add or remove obstacles.
