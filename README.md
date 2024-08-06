@@ -14,6 +14,9 @@ Allow manual maze creation and modification by the user.
 Users can set start and end points, and add or remove obstacles.
 
 ## Pathfinding Algorithms:
-** Breadth-First Search (BFS): Guarantees the shortest path in an unweighted maze.
-** Depth-First Search (DFS): Explores deeper paths first but does not guarantee the shortest path.
-** Dijkstra's Algorithm: Finds the shortest path in weighted mazes and utilizes heuristics to optimize the search process for the shortest path.
+
+Breadth-First Search (BFS): Guarantees the shortest path in an unweighted maze.
+
+Depth-First Search (DFS): Explores deeper paths first but does not guarantee the shortest path.
+
+Dijkstra's Algorithm: Finds the shortest path in weighted mazes and utilizes heuristics to optimize the search process for the shortest path.
